@@ -27,7 +27,7 @@ consumidores compren sus productos sin intermediarios. Entre los miembros puedes
 elegir a: 
 
 - [Mala Madre Store](https://www.instagram.com/malamadrestore/)
-- [La Nalca Austral](https://www.facebook.com/taller.nalca) 
+- [Hair Fashion Color](https://www.instagram.com/hairfashioncolors/) 
 - [Joyería Silvestre](https://www.instagram.com/joyeriasilvestre/)
 - [Patú](https://www.instagram.com/patuchile/)
 - [Groupie Merch](https://www.instagram.com/groupie_merch/)
