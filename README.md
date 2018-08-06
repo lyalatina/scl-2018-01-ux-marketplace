@@ -32,7 +32,7 @@ elegir a:
 - [Patú](https://www.instagram.com/patuchile/)
 - [Groupie Merch](https://www.instagram.com/groupie_merch/)
 - [Poly Maker](https://www.instagram.com/poly_maker/)
-- [Humns](https://www.instagram.com/hums_sabores/)
+- [Fairy Cake](https://www.facebook.com/FairyCakex/)
 
 Luego de elegir con qué miembro trabajarás, la ANPC te pide que ayudes a ese
 miembro a hacer un estudio inicial de cómo debería ser este portal de ventas y
