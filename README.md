@@ -89,7 +89,7 @@ La primera es Carolina, diseñadora, que le encanta lo original y la joyería he
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%202.png">
 </p>
 
-También realizamos el **Customer Journey Map**, para ver el proceso y las expectativas de compra de los usuarios, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. 
+También realizamos el [Customer Journey Map](), para ver el proceso y las expectativas de compra de los usuarios, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
 </p>
