@@ -88,9 +88,11 @@ Como complemento a esto realizamos un **Customer Journey Map**, para poder ver l
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
 </p>
+
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Customer%20Journey%20Map%20Pablo.png">
 </p>
+
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Copy%20of%20Customer%20Journey%20Map%20Marcela.png">
 </p>
