@@ -1,5 +1,6 @@
 # **Plataforma de ventas en línea**
 
+Se nos encomendó la misión de poder gestionar 
 
 
 ## Objetivos del Proyecto
@@ -11,48 +12,49 @@ Por medio de la  **Asociación Nacional de Pequeños Comerciantes**, quienes nos
 
 Para poder ayudar, entender el problema y el cómo poder crear un portal, realizamos entrevistas con los Stakeholders y usuarios.
 
-Hablamos con la encargada de ANCP (Asociación Nacional de Pequeños Comerciantes) la cual nos contó que el principal objetivo es ayudar a surgir potenciar a Joyerías Silvestre, respetando los estamentos del fondo Corfo. [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
+Hablamos con uno de los miembros de la ANCP (Asociación Nacional de Pequeños Comerciantes) la cual nos contó que el principal objetivo es ayudar a potenciar uno de sus emprendimientos que es Joyerías Silvestre. Creando una plataforma virtual. Escuchar [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
-También conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos contó como ve su emprendimiento, que es lo que más quiere de él, cómo funciona y que hace. [Entrevista Joyerías Silvestre](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
+También conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos contó como ve su negocio, que es lo que más quiere de él, cómo funciona y que hace. Escuchar[Entrevista Joyerías Silvestre](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
-Realizamos entrevistas con **usuarios (mujeres)** que compran online en redes sociales. El patrón importante que se repitió, es que antes de realizar una compra online, en lo primero que se fijan son en las valoraciones de la tienda. Ya que eso les genera confianza y seguridad al momento de efectuar un pago. Ya que por ser tiendas de Instagram o Facebook, la mayoría carece de una **página web profesional**.
-[Entrevistas Usuarios](https://drive.google.com/open?id=1apb7YepD2Bf3nuanAtvj_2-3S-4RB0-v)
+Realizamos 5 entrevistas con **usuarios (mujeres)** que compran online en redes sociales. Un patrón importante que  que se repitió, en todas las entrevistas, es que antes de realizar una compra online, en lo primero que se fijan son en los comentarios de la tienda. Ya que eso les genera confianza y seguridad al momento de efectuar un pago. Ya que por ser tiendas de Instagram o Facebook, la mayoría carece de una **página web profesional**.
+Escuchar [Entrevistas Usuarios](https://drive.google.com/open?id=1apb7YepD2Bf3nuanAtvj_2-3S-4RB0-v)
 
 
 Analizando Joyerías Silvestre vimos que solo su emprendimiento está en Facebook e Instagram. Nos dimos cuenta que posee fotografías profesionales, tiene un logo y que además, sus joyas son personalizadas y a pedido. 
-La red social que más ocupa en **Instagram**, la cual viendo su perfil y publicaciones nos dimos cuenta de  que posee el mismo número de seguidos que de seguidores
+La red social que más ocupa es **Instagram**, en la cual viendo su perfil y publicaciones, nos dimos cuenta de  que posee el mismo número de seguidos que de seguidores.
 
 
-<p align="center">
-  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png">
-</p> 
+  <p align="center">
+  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png"></p>
+
+  <p align="center">
+  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre.png"></p>      
 
 
+  
+La mayoría de sus seguidores son mujeres, que comentan sus publicaciones, siempre preguntando el precio, cómo realiza la entrega, el pago. La mayoría de esos comentarios no recibe respuesta.
 
-La mayoría de sus seguidores son mujeres, que comentan sus publicaciones, siempre preguntando el precio, como realiza la entrega, el pago, y las respuestas a  alguno de esos comentarios son inexistentes.
+Quisimos ahondar más allá y actuamos como cliente incógnito, preguntando por mensaje privado en su Instagram, sobre el precio de un anillo. La respuesta la recibimos 2 días despues.
 
-Preguntamos por mensaje privado en su Instagram, como cliente incógnito, sobre un anillo, el precio, y como podíamos mandarlo a hacer. Nos dimos cuenta de que el tiempo de respuesta  en contestarnos duro 3 días.
+Observamos sus publicaciones y si bien son seguidas, sus fotografías carecen de variedad en la toma de planos y escenarios.
 
-Observamos sus publicaciones y si bien son seguidas, sus fotografías carecen de variedad en la toma de planos, haciéndolas muy monónotas y con poco atractivo visual.
-
-A través del [Benchmark](https://drive.google.com/open?id=1U3iOYkTz6Bng5XSFLW0hUnF8k5YaA4vD66g9Mqu6YAk) observamos la competencia directa de Joyerías Silvestre, y con eso pudimos abrir más nuestra mente en cuanto a su problemática, y cómo su emprendimiento podría llegar a difundirse aún más.
+A través del [Benchmark](https://drive.google.com/open?id=1U3iOYkTz6Bng5XSFLW0hUnF8k5YaA4vD66g9Mqu6YAk) miramos la competencia directa de Joyerías Silvestre, y con eso pudimos abrir más nuestra mente en cuanto a su problemática, y cómo su emprendimiento podría llegar a difundirse aún más.
 
 
 ## Problemas identificados en la investigación (stakeholders y usuarios)
 
-Luego de nuestra investigación y realizando los insight principales de las entrevistas entrevistas pudimos organizar mejor los problemas y necesidades de cada uno.
+Luego de nuestra investigación y realizando los insight principales de las entrevistas,pudimos organizar mejor los problemas y necesidades de cada uno.
 
 **Joyerías Silvestre** 
 
 * No tiene un estimado de cuanto gana semanalmente, porque trabaja a pedido realizando, y creando ella misma pulseras, anillos, collares. 
-*  A Jocelyn le gustaría generar más ventas,pero debe trabajar de fotógrafa freelance, eso le quita tiempo de poder crear joyas.
 * Su empleo de fotógrafa freelance, le quita tiempo de poder crear joyas a pedido y pierde ventas.
 * Su emprendimiento solo está en Facebook e Instagram. 
 * Su instagram posee el mismo número de seguidores, que de seguidos, eso nos da a entender que no hay más gente que la siga, de la ella sigue. 
-* No tiene variedad de planos en la toma de sus fotografías, siendo pocos atractivas y monótomas visualmente. 
+* No tiene variedad de planos en la toma de sus fotografías, siendo poco atractivas y monótomas visualmente. 
 
 
-Nos dimos cuenta que tiene mucha competencia, y otros emprendimientos de joyerías a mano en Instagram  poseen mas seguidores, tienen publicidad que es de Instagram y página web. Además poseen embajadoras, que modelan y publicitan sus productos en su Instagram personal, eso atrae mas seguidores, ya que, las personas que siguen a estas embajadoras sienten cercanía, y compran más, solo por el hecho de que las usan. 
+Nos dimos cuenta que tiene mucha competencia, y otros emprendimientos de joyerías a mano en Instagram,  poseen mas seguidores, tienen publicidad que es de Instagram y página web. Además poseen embajadoras, que modelan y publicitan sus productos en su Instagram personal, eso atrae mas seguidores, ya que, las personas que siguen a estas embajadoras, sienten cercanía y compran más, solo por el hecho de que las usan. 
 
 **Los medios de comunicación** que utiliza para realizar las ventas son por mensaje privado en Instagram, Facebook y Whatsapp. 
 * El sistema de comunicación de Jocelyn (dueña del emprendimiento) no es muy efectivo, ya que, a veces le pasa que la misma persona se comunica por medio de Facebook e Instagram, y cree que son dos personas diferentes, por lo tanto, asimila que son dos ventas realizadas. 
@@ -87,12 +89,16 @@ También realizamos el **Customer Journey Map**, para ver el proceso y las expec
 
 ## Definición de la solución/producto 
 
-Luego de analizar e investigar a los stakeholders y usuarios, llegamos a la conclusión de que la asociación, necesita que Joyerías Silvestre llegue a  ser un emprendimiento más grande y pueda incrementar sus ventas, esto es a través de una plataforma virtual la cual sería una página web. Al estar solo en redes sociales, le impide poder llegar a más personas. 
+Luego de analizar e investigar a los stakeholders y usuarios, llegamos a la conclusión de que la asociación, necesita que Joyerías Silvestre llegue a  ser un emprendimiento más grande y pueda incrementar sus ventas, esto es a través de una plataforma virtual la cual sería una **página web** ya que al estar solo en redes sociales, le impide poder llegar a más personas. 
+Se implementaría publicidad en su Instagram, como también se aconsejaría cambiar los escenarios y planos en las fotos. Usando alguna modelo para lucirlos.
+Para tener más seguidores de calidad, podría enviar de regalo una joya personalizada,  a alguna persona conocida en redes sociales, con la condición de que si le agrada el diseño pueda publicitarla en su Instagram personal.
 
-Al estar clara su marca, concepto y diseño. Solo queda solucionar el tema de sus ventas, mejorar su sistema de pedido y mostrar claramente sus métodos de envió, pago. Al ser una página web se unifica y mejora: 
+Al estar clara su marca, concepto y diseño. Solo queda solucionar el tema de sus ventas, mejorar su sistema de pedido, mostrar claramente sus métodos de envió y pago. Al tener una página web se unificaría y mejoraría:
 * Su sistema de comunicación
 * Su sistema de pedidos
-* El detalle de sus métodos de envío y pago
+* La información de sus métodos de envío y pago
+
+Al generar más ventas y tener más dinero, puede dedicarse al 100% en su emprendimiento y dejar el trabajo freelance.
 
 Un punto importante a considerar es que al realizar joyas personalizadas y a pedido, no existíria carrito de compras, ya que no lo amérita por no tener stock, dinero, y el tiempo en que se demora en crear una joya varía según el diseño.
 
@@ -101,26 +107,30 @@ Los puntos a continuación son los más importantes a solucionar de acuerdo a lo
 |Problema|Solución|
 |:----|:---|
 |Solo está en Facebook e Instagram| Se implementaría una página web para poder llegar a más personas que no poseen esas redes sociales.  
-|Necesita generar más ventas|Al tener una página web con hosting y dominio propio, se implememtaría una estrategia de marketing y SEO.
+|Necesita generar más ventas|Al tener una página web con hosting y dominio propio, se implementaría una estrategia de marketing y SEO.
 |Tiene muchos sistemas de comunicación|Tendría un formulario de contacto para resolver dudas específicas. 
 |No tiene un sistema de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones. 
-|No hay información y detalle de sus productos visible|Portafolio de sus joyas mostrando el detalle y características de cada una
-||
+|No hay información y detalle de sus productos visible|Se realizaría un portafolio virtual, en donde se verían fotografías de los estilos de joyas que crea con sus detalles de fabricación.
+|
 
 
 **Estrategia de Marketing y posicionamiento web**
 
-Esta página web profesional potenciaría más el emprendiento de joyerías, ya que al estar solo en redes sociales, pierde la oportunidad de poder llegar a más gente a través de una búsqueda orgánica, esta sería a través de Google, que es el navegador más utilizado. Para que las personas puedan llegar a su página web y encargen sus pedidos, se implementaria **SEO**, que a través del planificador de **Keywords (palabras clave)** de Google u otro, se pueda ver que palabra clave usa la gente para buscar joyerías a pedido o joyas personalizadas. De acuerdo a ese estudio implementar esas palabras a través de toda su página web. Al tener una página web profesional puede implementar también un plug in de SEO para mejorar la búsqueda. Es muy bueno también implementar links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda ver más valor en el contenido, y sirve como ayuda para la navegación del usuario.
-También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar las estrategias a seguir, viendo el comportamiento de los usuarios. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué. 
-
-
+Al tener lista su página web, deberá implementar estrategias de marketing y publicidad, gratuitas, primeramente. 
+Los nuevos usuarios que quieran encontrar su página lo harṕan a través de una búsqueda orgánica, esta sería con el buscador más usado, Google. Para que las personas puedan llegar a su página  y encargen sus pedidos, se usaría **SEO**, que a través del planificador de **Keywords (palabras clave)** de Google u otro, se pueda ver que palabra clave usa la gente para buscar joyerías a pedido o joyas personalizadas. De acuerdo a ese estudio, se podrán implementar esas palabras a través de toda su página web. Al tener una página web profesional puede también insertar un plug in de SEO para mejorar la búsqueda. 
+Algo que es de suma importancia para rankear su web, es estableciendo links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda indexar mejor el contenido, y sirve como ayuda para la navegación del usuario.
+También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar  y definir las estrategias a seguir, viendo el comportamiento de los visitantes. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué. 
+Al tener claro estos puntos, se deberá trabajar en una propuesta de valor, que defina la diferencia que entrega Joyerías Silvestre, y que no tienen los demás emprendimientos.
 
 Para empezar a implementar estas soluciones realizamos 
 * Un Site Map  para poder ver las páginas principales del sitio web y que sean accesibles para los buscadores y los usuarios.
-Ver [Site Map](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
+
+![Site Map](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
 
 * Un flujo de usuario para poder conocer el viaje y navegación que los usuarios realizarán en la página web, al momento de realizar un pedido.
-Ver [Flujo de usuario](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Diagrama%20de%20Flujo.pdf)
+
+![Flujo de usuario](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
+
 
 
 Al tener esto listo, comenzamos con el prototipo de baja fidelidad
@@ -138,15 +148,18 @@ Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 </p>
 
 Testeamos este prototipo con 5 usuarios y los problemas que se presentaron fueron que:
-* No veían el carrito de compras
-* La palabra portafolio no les hacía sentido
+* Creían que debia estar el carrito de compras.
+* La palabra portafolio no les hacía sentido.
+* No veían el detalle de cada joya a pedir.
+* Al momento de realizar el pedido, no había un aviso de confirmación.
 
 
 Todos estos procedimientos como el flujo de usuario, sitemap fueron cambiando de acuerdo a las iteraciones de los testing de usuarios.
 
-Mejoramos esos feedback de los usuarios realizando la version del prototipo en alta definición
+Mejoramos los feedback de los usuarios realizando la version del prototipo en alta definición
 
 [Prototipo marvel](https://marvelapp.com/74f3f36)
+
 
 
 
