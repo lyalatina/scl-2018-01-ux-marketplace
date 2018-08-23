@@ -85,7 +85,6 @@ La primera es Carolina, diseñadora, que le encanta lo original y la joyería he
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona.png">
 </p>
-
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Untitled%20(User%20Persona%20Template).png">
 </p>
@@ -94,8 +93,6 @@ También realizamos el **Customer Journey Map**, para ver el proceso y las expec
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
 </p>
-
-
 
 
 ## Definición de la solución/producto 
