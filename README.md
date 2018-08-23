@@ -72,7 +72,7 @@ Su sistema de pago y envío no es muy efectivo, ya que debe estar mandando los d
 Como señalábamos en la entrevista un **patrón** importante que nos señalaron y a considerar es la valoración, es decir,
 * Los comentarios generados por las personas. Si son demasiados comentarios negativos no compran en esa tienda, porque les genera desconfianza e incredulidad, por el contrario si hay muchos comentarios positivos, les genera confianza y deseean comprar. 
 *  Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención.
-* No ven los precios de las joyas y no saben un aproximado, y eso les genera confusión y desgaste estar preguntando cada cosa en los comentarios y por mensaje privado.
+* No ven los precios de las joyas y no saben un aproximado, y eso les genera confusión y desgaste, al estar preguntando cada cosa en los comentarios y por mensaje privado.
 
 
 ## Público Objetivo
@@ -84,8 +84,16 @@ Son mujeres que trabajan, disfrutan del aire libre, realizan caminatas, trekking
 Prefieren hacerlo online y no en tiendas, ya que cuando deseean una joya, prefieren no andar vitrineando, sino ir directo a emprendimientos especializados en joyerías, además, de que quieren un diseño único y hecho a su medida.
 
 De acuerdo a esta investigación definimos a 2 **User Persona**.
-La primera es Carolina, diseñadora, que le encanta lo original y la joyería hecho a mano. Le gustan los accesorios con detalles que tengan que ver con la naturaleza, como las piedras preciosas. Ver más en detalle los [User Persona](https://drive.google.com/open?id=1DO6btkGikOz4UaOgBVNr-L3ig-Zv0vpU)
-También realizamos el **Customer Journey Map**, para ver el proceso y las expectativas de compra de Carolina, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. Ver [Customer Journey Map](https://drive.google.com/open?id=16syhZx9JODmqrlXlvtoWNlvue9WA88i5)
+La primera es Carolina, diseñadora, que le encanta lo original y la joyería hecho a mano. Le gustan los accesorios con detalles que tengan que ver con la naturaleza, como las piedras preciosas.
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona.pdf">
+</p>
+
+También realizamos el **Customer Journey Map**, para ver el proceso y las expectativas de compra de Carolina, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. 
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.pdf">
+</p>
+
 
 ## Definición de la solución/producto 
 
@@ -111,7 +119,7 @@ Los puntos a continuación son los más importantes a solucionar de acuerdo a lo
 |Tiene muchos sistemas de comunicación|Tendría un formulario de contacto para resolver dudas específicas. 
 |No tiene un sistema de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones. 
 |No hay información y detalle de sus productos visible|Se realizaría un portafolio virtual, en donde se verían fotografías de los estilos de joyas que crea con sus detalles de fabricación.
-|
+||
 
 
 **Estrategia de Marketing y posicionamiento web**
@@ -119,17 +127,24 @@ Los puntos a continuación son los más importantes a solucionar de acuerdo a lo
 Al tener lista su página web, deberá implementar estrategias de marketing y publicidad, gratuitas, primeramente. 
 Los nuevos usuarios que quieran encontrar su página lo harṕan a través de una búsqueda orgánica, esta sería con el buscador más usado, Google. Para que las personas puedan llegar a su página  y encargen sus pedidos, se usaría **SEO**, que a través del planificador de **Keywords (palabras clave)** de Google u otro, se pueda ver que palabra clave usa la gente para buscar joyerías a pedido o joyas personalizadas. De acuerdo a ese estudio, se podrán implementar esas palabras a través de toda su página web. Al tener una página web profesional puede también insertar un plug in de SEO para mejorar la búsqueda. 
 Algo que es de suma importancia para rankear su web, es estableciendo links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda indexar mejor el contenido, y sirve como ayuda para la navegación del usuario.
-También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar  y definir las estrategias a seguir, viendo el comportamiento de los visitantes. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué. 
+También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar  y definir las estrategias a seguir, viendo el comportamiento de los visitantes. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué.
+
+
 Al tener claro estos puntos, se deberá trabajar en una propuesta de valor, que defina la diferencia que entrega Joyerías Silvestre, y que no tienen los demás emprendimientos.
 
 Para empezar a implementar estas soluciones realizamos 
 * Un Site Map  para poder ver las páginas principales del sitio web y que sean accesibles para los buscadores y los usuarios.
 
-![Site Map](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
+</p>
+
 
 * Un flujo de usuario para poder conocer el viaje y navegación que los usuarios realizarán en la página web, al momento de realizar un pedido.
 
-![Flujo de usuario](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
+</p>
 
 
 
