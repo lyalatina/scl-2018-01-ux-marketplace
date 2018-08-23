@@ -99,13 +99,14 @@ Un punto importante a considerar es que al realizar joyas personalizadas y a ped
 Los puntos a continuación son los más importantes a solucionar de acuerdo a los problemas presentados anteriormente. Los que podemos empezar a realizar para mejorar, y comenzar a posicionar en el mercado a Joyerías Silvestre, y así potenciar más su emprendimiento.
 
 |Problema|Solución|
-|:----|:---|:---:|
+|:----|:---|
 |Solo está en Facebook e Instagram| Se implementaría una página web para poder llegar a más personas que no poseen esas redes sociales.  
 |Necesita generar más ventas|Al tener una página web con hosting y dominio propio, se implememtaría una estrategia de marketing y SEO.
 |Tiene muchos sistemas de comunicación|Tendría un formulario de contacto para resolver dudas específicas. 
 |No tiene un sistema de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones. 
-|No hay información y detalle de sus productos visible|Portafolio de sus joyas mostrando el detalle y características de cada una|
+|No hay información y detalle de sus productos visible|Portafolio de sus joyas mostrando el detalle y características de cada una
 ||
+
 
 **Estrategia de Marketing y posicionamiento web**
 
