@@ -79,7 +79,7 @@ La primera es Carolina, diseñadora, que le encantan los productos originales y 
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%202.png">
 </p>
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20persona%20Marcela.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%203.png">
 </p>
 
 
@@ -90,11 +90,11 @@ Como complemento a esto realizamos un **Customer Journey Map**, para poder ver l
 </p>
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Customer%20Journey%20Map%20Pablo.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Customer%20Journey%20Map%20Pablo%20(1).png">
 </p>
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Copy%20of%20Copy%20of%20Customer%20Journey%20Map%20Marcela.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/%20Customer%20Journey%20Map%20Marcela%20(1).png">
 </p>
 
 
