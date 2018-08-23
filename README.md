@@ -13,9 +13,10 @@ Para poder ayudar, entender el problema y el cómo poder crear un portal, realiz
 
 Hablamos con la encargada de ANCP (Asociación Nacional de Pequeños Comerciantes) la cual nos contó que el principal objetivo es ayudar a surgir potenciar a Joyerías Silvestre, respetando los estamentos del fondo Corfo. [Entrevista ANCP](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
-También conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos contó como ve su emprendimiento, que es lo que más quiere de él, cómo funciona y que hace. [Entrevista Jocelyn](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
+También conversamos con la dueña del emprendimiento **Joyerías Silvestre**, Jocelyn, quien nos contó como ve su emprendimiento, que es lo que más quiere de él, cómo funciona y que hace. [Entrevista Joyerías Silvestre](https://drive.google.com/open?id=1LX-gck2oBtwrjSmWmTYxwaKBU3EgpxM-)
 
 Realizamos entrevistas con **usuarios (mujeres)** que compran online en redes sociales. El patrón importante que se repitió, es que antes de realizar una compra online, en lo primero que se fijan son en las valoraciones de la tienda. Ya que eso les genera confianza y seguridad al momento de efectuar un pago. Ya que por ser tiendas de Instagram o Facebook, la mayoría carece de una **página web profesional**.
+[Entrevistas Usuarios](https://drive.google.com/open?id=1apb7YepD2Bf3nuanAtvj_2-3S-4RB0-v)
 
 
 Analizando Joyerías Silvestre vimos que solo su emprendimiento está en Facebook e Instagram. Nos dimos cuenta que posee fotografías profesionales, tiene un logo y que además, sus joyas son personalizadas y a pedido. 
@@ -100,11 +101,17 @@ Los puntos a continuación son los más importantes a solucionar de acuerdo a lo
 |Problema|Solución|
 |:----|:---|:---:|
 |Solo está en Facebook e Instagram| Se implementaría una página web para poder llegar a más personas que no poseen esas redes sociales.  
-|Necesita generar más ventas|Al tener una página web con hosting y dominio propio, se implememtaría una estrategia de marketing y SEO|
+|Necesita generar más ventas|Al tener una página web con hosting y dominio propio, se implememtaría una estrategia de marketing y SEO.
 |Tiene muchos sistemas de comunicación|Tendría un formulario de contacto para resolver dudas específicas. 
 |No tiene un sistema de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones. 
 |No hay información y detalle de sus productos visible|Portafolio de sus joyas mostrando el detalle y características de cada una|
 ||
+
+**Estrategia de Marketing y posicionamiento web**
+
+Esta página web profesional potenciaría más el emprendiento de joyerías, ya que al estar solo en redes sociales, pierde la oportunidad de poder llegar a más gente a través de una búsqueda orgánica, esta sería a través de Google, que es el navegador más utilizado. Para que las personas puedan llegar a su página web y encargen sus pedidos, se implementaria **SEO**, que a través del planificador de **Keywords (palabras clave)** de Google u otro, se pueda ver que palabra clave usa la gente para buscar joyerías a pedido o joyas personalizadas. De acuerdo a ese estudio implementar esas palabras a través de toda su página web. Al tener una página web profesional puede implementar también un plug in de SEO para mejorar la búsqueda. Es muy bueno también implementar links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda ver más valor en el contenido, y sirve como ayuda para la navegación del usuario.
+También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar las estrategias a seguir, viendo el comportamiento de los usuarios. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué. 
+
 
 
 Para empezar a implementar estas soluciones realizamos 
@@ -118,6 +125,21 @@ Para empezar a implementar estas soluciones realizamos
 
 Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1193.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1192.jpg">
+</p>
+
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1191.jpg">
+</p>
+
+Testeamos este prototipo con 5 usuarios y los problemas que se presentaron fueron que:
+* No veían el carrito de compras
+* La palabra portafolio no les hacía sentido
 
 
 
@@ -134,14 +156,7 @@ Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 
 
 
-* Implementando un formulario para realizar pedidos de joyas personalizadas, detallando la piedra piedra, medida, y subiendo también una referencia de fotografía si lo desean.
-* Tendrá un catálogo para que las personas puedan inspirarse y encargar alguna de esas joyas.
-* Se informará el sistema de pago y envío
 
-**Estrategia de Marketing y posicionamiento web**
-
-La página web profesional potenciaría más el emprendiento de joyerías, ya que al estar solo en redes sociales, pierde la oportunidad de poder llegar a más gente a través de una búsqueda orgánica, esta sería a través de Google, que es el navegador más utilizado. Para que las personas puedan llegar a su página web y encargen sus pedidos, se implementaria **SEO**, que a través del planificador de **Keywords (palabras clave)** de Google u otro, se pueda ver que palabra clave usa la gente para buscar joyerías a pedido o joyas personalizadas. De acuerdo a ese estudio implementar esas palabras a través de toda su página web. Al tener una página web profesional puede implementar también un plug in de SEO para mejorar la búsqueda. Es muy bueno también implementar links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda ver más valor en el contenido, y sirve como ayuda para la navegación del usuario.
-También se enlazaría a su página la herramienta de **Google Analytics** que es gratuita, ya que que es indispensable, para ayudar a ajustar las estrategias a seguir, viendo el comportamiento de los usuarios. Se puede visualizar por ejemplo cuanto tiempo pasan los usuarios en la página, si terminan de realizar el pedido, y los problemas que se presentan y el por qué. 
 
 
 
