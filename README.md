@@ -67,7 +67,7 @@ Su sistema de pago y envío no es muy efectivo, ya que debe estar mandando los d
 
 **Usuarios**
 
-Como señalábamos en la entrevista un **patrón** importante que nos señalaron y a considerar es la valoración o sea,
+Como señalábamos en la entrevista un **patrón** importante que nos señalaron y a considerar es la valoración, es decir,
 * Los comentarios generados por las personas. Si son demasiados comentarios negativos no compran en esa tienda, porque les genera desconfianza e incredulidad, por el contrario si hay muchos comentarios positivos, les genera confianza y deseean comprar. 
 *  Demasiada demora en el tiempo de respuesta a sus preguntas, eso les genera desconfianza, falta de profesionalismo y atención.
 * No ven los precios de las joyas y no saben un aproximado, y eso les genera confusión y desgaste estar preguntando cada cosa en los comentarios y por mensaje privado.
@@ -116,12 +116,11 @@ También se enlazaría a su página la herramienta de **Google Analytics** que e
 
 Para empezar a implementar estas soluciones realizamos 
 * Un Site Map  para poder ver las páginas principales del sitio web y que sean accesibles para los buscadores y los usuarios.
-
-<p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
-</p>
+Ver [Site Map](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf)
 
 * Un flujo de usuario para poder conocer el viaje y navegación que los usuarios realizarán en la página web, al momento de realizar un pedido.
+Ver [Flujo de usuario](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Diagrama%20de%20Flujo.pdf)
+
 
 Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 
@@ -140,6 +139,13 @@ Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 Testeamos este prototipo con 5 usuarios y los problemas que se presentaron fueron que:
 * No veían el carrito de compras
 * La palabra portafolio no les hacía sentido
+
+
+Todos estos procedimientos como el flujo de usuario, sitemap fueron cambiando de acuerdo a las iteraciones de los testing de usuarios.
+
+Mejoramos esos feedback de los usuarios realizando la version del prototipo en alta definición
+
+[Prototipo marvel](https://marvelapp.com/74f3f36)
 
 
 
