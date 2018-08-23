@@ -22,8 +22,9 @@ Analizando Joyerías Silvestre vimos que solo su emprendimiento está en Faceboo
 La red social que más ocupa en **Instagram**, la cual viendo su perfil y publicaciones nos dimos cuenta de  que posee el mismo número de seguidos que de seguidores
 
 
-![Facebook](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre.png) 
-![Instagram](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png) 
+<p align="center">
+  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png">
+</p> 
 
 
 
@@ -109,11 +110,11 @@ Los puntos a continuación son los más importantes a solucionar de acuerdo a lo
 Para empezar a implementar estas soluciones realizamos 
 * Un Site Map  para poder ver las páginas principales del sitio web y que sean accesibles para los buscadores y los usuarios.
 
-![Site Map]() 
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
+</p>
 
 * Un flujo de usuario para poder conocer el viaje y navegación que los usuarios realizarán en la página web, al momento de realizar un pedido.
-
-![Flujo de usuario]() 
 
 Al tener esto listo, comenzamos con el prototipo de baja fidelidad
 
