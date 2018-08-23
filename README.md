@@ -21,7 +21,10 @@ Realizamos entrevistas con **usuarios (mujeres)** que compran online en redes so
 Analizando Joyerías Silvestre vimos que solo su emprendimiento está en Facebook e Instagram. Nos dimos cuenta que posee fotografías profesionales, tiene un logo y que además, sus joyas son personalizadas y a pedido. 
 La red social que más ocupa en **Instagram**, la cual viendo su perfil y publicaciones nos dimos cuenta de  que posee el mismo número de seguidos que de seguidores
 
-![Facebook]()  ![Instagram]()
+
+![Facebook](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre.png) 
+![Instagram](https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png) 
+
 
 
 La mayoría de sus seguidores son mujeres, que comentan sus publicaciones, siempre preguntando el precio, como realiza la entrega, el pago, y las respuestas a  alguno de esos comentarios son inexistentes.
