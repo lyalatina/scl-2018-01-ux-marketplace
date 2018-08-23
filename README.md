@@ -27,9 +27,6 @@ La red social que más ocupa es **Instagram**, en la cual viendo su perfil y pub
   <p align="center">
   <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre%20instagram.png"></p>
 
-  <p align="center">
-  <img width="350" height="400" src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/silvestre.png"></p>      
-
 
   
 La mayoría de sus seguidores son mujeres, que comentan sus publicaciones, siempre preguntando el precio, cómo realiza la entrega, el pago. La mayoría de esos comentarios no recibe respuesta.
@@ -86,13 +83,19 @@ Prefieren hacerlo online y no en tiendas, ya que cuando deseean una joya, prefie
 De acuerdo a esta investigación definimos a 2 **User Persona**.
 La primera es Carolina, diseñadora, que le encanta lo original y la joyería hecho a mano. Le gustan los accesorios con detalles que tengan que ver con la naturaleza, como las piedras preciosas.
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona.pdf">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona.png">
 </p>
 
-También realizamos el **Customer Journey Map**, para ver el proceso y las expectativas de compra de Carolina, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.pdf">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Untitled%20(User%20Persona%20Template).png">
 </p>
+
+También realizamos el **Customer Journey Map**, para ver el proceso y las expectativas de compra de los usuarios, plasmando sus sentimientos y sensaciones por el cual  pasan al momento del pedido y pago en Joyerías Silvestre. Analizamos como podríamos mejorar los puntos de dolor más negativos, viendo oportunidades de mejora en cada uno de ellos. 
+<p align="center">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
+</p>
+
+
 
 
 ## Definición de la solución/producto 
@@ -136,14 +139,14 @@ Para empezar a implementar estas soluciones realizamos
 * Un Site Map  para poder ver las páginas principales del sitio web y que sean accesibles para los buscadores y los usuarios.
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.png">
 </p>
 
 
 * Un flujo de usuario para poder conocer el viaje y navegación que los usuarios realizarán en la página web, al momento de realizar un pedido.
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.pdf">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Blank%20Diagram.png">
 </p>
 
 
