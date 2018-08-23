@@ -83,7 +83,7 @@ Prefieren hacerlo online y no en tiendas, ya que cuando deseean una joya, prefie
 De acuerdo a esta investigación definimos a 2 **User Persona**.
 La primera es Carolina, diseñadora, que le encanta lo original y la joyería hecho a mano. Le gustan los accesorios con detalles que tengan que ver con la naturaleza, como las piedras preciosas.
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona%201.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona1.png">
 </p>
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/user%20persona%202.png">
