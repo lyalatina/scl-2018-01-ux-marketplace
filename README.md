@@ -93,7 +93,7 @@ Como complemento a esto realizamos un [Customer Journey Map](https://drive.googl
 </p>
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/%20Customer%20Journey%20Map%20Marcela%20(1).png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/%20Customer%20Journey%20Map%20Marcela%20.png">
 </p>
 
 
