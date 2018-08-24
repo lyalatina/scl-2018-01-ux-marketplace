@@ -1,6 +1,6 @@
 # **Plataforma de ventas en línea**
 
-SPara éste proyecto se nos encomendó la misión de asesorar a pequeñas y medianas empresas fabricantes o productoras de diversos artículos para crear un e-commerce desde dónde los consumidores puedan adquirir sus productos y así mejorar sus ventas y por ende, sus ingresos mensuales.
+Para éste proyecto se nos encomendó la misión de asesorar a pequeñas y medianas empresas fabricantes o productoras de diversos artículos para crear un e-commerce desde dónde los consumidores puedan adquirir sus productos y así mejorar sus ventas y por ende, sus ingresos mensuales.
 
 ## Objetivos del Proyecto
 Asesorar a uno de los emprendimiento de la Asociación Nacional de Pequeños Comerciantes (ANPC), creando un portal en la que los consumidores puedan comprar sus productos sin intermediarios.
