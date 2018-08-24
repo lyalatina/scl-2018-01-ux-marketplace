@@ -181,6 +181,9 @@ Y teniendo estos puntos a considerar fue que se modificó por última vez el pro
 Todo nuestro proceso además lo puedes leer en nuestro post de Medium en el siguiente link,
 [Posteo Medium](https://medium.com/@deni.moreno11/marketplace-825f2e7465bc)
 
+Puedes ver nuestro video explicando el proceso de investigación [Link Loom](https://www.useloom.com/share/e74e9c6c422143db9d1ce1d0d32464f0)
+
+
 
 
 
