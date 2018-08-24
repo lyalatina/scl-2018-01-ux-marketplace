@@ -183,6 +183,10 @@ Todo nuestro proceso además lo puedes leer en nuestro post de Medium en el sigu
 
 Puedes ver nuestro video explicando el proceso de investigación [Link Loom](https://www.useloom.com/share/e74e9c6c422143db9d1ce1d0d32464f0)
 
+Toda nuestra documentación e investigación, esta respaldada en una carpeta en Google Drive que puedes ver acá [Link Drive](https://drive.google.com/open?id=1pu8ST8J6ba3IiQbJxKnJ-I55wTKVXoWV)
+
+
+
 
 
 
