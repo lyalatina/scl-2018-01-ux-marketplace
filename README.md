@@ -86,7 +86,7 @@ La primera es Carolina, diseñadora, que le encantan los productos originales y 
 Como complemento a esto realizamos un **Customer Journey Map**, para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago en la joyería. Analizamos cómo podríamos mejorar sus puntos de dolor de mayor significancia, y viendo las oportunidades de mejora en cada una de ellas.
 
 <p align="center">
-  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map.png">
+  <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map%20Carolina.png">
 </p>
 
 <p align="center">
