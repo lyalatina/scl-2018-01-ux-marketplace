@@ -65,10 +65,10 @@ En las entrevistas un **patrón** importante que nos señalaron y a considerar e
 El público objetivo que compra en Joyerías Silvestre ronda la edad de 20 a 35 años. Son personas mayoritariamente de sexo femenino, de un nivel socioeconómico medio, y que viven en comunas tales como, Providencia o Santiago Centro. Ésto en base a que el precio mínimo de la creación de una joya parte desde los $35.000. Por lo que son mujeres trabajadoras, que disfrutan del aire libre, realizan caminatas, trekking, Yoga. Les encantan los animales, la naturaleza y estar en contacto con ella. Son mujeres preocupadas por su apariencia, por como se ven y cómo las ven los otros, siendo parte fundamental de ésto la compra accesorios llamativos y únicos, para sentirse femeninas y empoderadas. Es por ésto que buscan siempre accesorios originales y diferenciadores del común de la  gente, siendo ésta búsqueda realizada mayoritariamente en tiendas online, por su falta de tiempo y ocasionalmente de manera presencial cuando su agenda se los permite. Éste tipo de mujeres son a su vez el público objetivo al que aspira Joyerías Silvestre y su dueña Jocelyn, la que tiene como inspiración de marca la tierra, la naturaleza muerta, los animales y las piedras naturales, además de realizar diseños únicos, llamativos, creativos y personalizados. 
  
 
-**Hábitos de Compra**: Las personas buscan tiendas en Instagram, Facebook e internet, dentro de esas búsquedas podemos encontrar la de accesorios, originales de calidad, con diseños únicos y creativos, para comprar online. Prefieren hacerlo online y no en tiendas, ya que no tienen el tiempo y prefieren no andar vitrineando, sino ir directo a negocios o emprendimientos especializados en el artículo específico que andan buscando, además de querer un diseño único y hecho a su medida, ya que además a veces es difícil encontrar medidas especiales en el comercio normal.
+**Hábitos de Compra**: Las personas buscan tiendas en Instagram, Facebook e internet, y dentro de esas búsquedas podemos encontrar la de accesorios, originales de calidad, con diseños únicos y creativos, para comprar online. Prefieren hacerlo online y no en tiendas, ya que no tienen el tiempo y prefieren no andar vitrineando, sino ir directo a negocios o emprendimientos especializados, en el artículo específico que andan buscando, además de querer un diseño único y hecho a su medida, ya que además a veces es difícil encontrar medidas especiales en el comercio normal.
 
 De acuerdo a esta investigación definimos a 3 **User Persona**.
-La primera es Carolina, diseñadora, que le encantan los productos originales y la joyería hecho a mano, le gustan los accesorios con detalles que tengan que ver con la naturaleza. La segunda es Pablo, un hombre jóven profesor de profesión que se preocupa de la cultura, le gusta la historia y la lectura, tiene una relación estable y busca regalos para su pareja y con el poco tiempo que tiene para hacerlo prefiere realizar compras por internet, dónde busca productos de calidad, y que idealmente sean únicos y personalizados para quedar bien con su pareja. Y por último nos encontramos con la tercera persona, una mujer jóven, con gusto por la moda, las joyas y los productos exclusivos, pero le hes dificil encontrarlas en el comercio tradicional, puesto que no tiene las medidas consideradas estándares dentro del comercio tradicional, es por ésto que busca por redes sociales productos hechos a medida para poder estar segura de que puede tener las cosas que le gustan de un negocio.
+La primera es Carolina, diseñadora, que le encantan los productos originales y la joyería hecho a mano, le gustan los accesorios con detalles que tengan que ver con la naturaleza. El segundo es Pablo un hombre jóven, profesor de profesión que se preocupa de la cultura, le gusta la historia y la lectura, tiene una relación estable y busca regalos para su pareja, y con el poco tiempo que tiene para hacerlo prefiere realizar compras por internet, dónde busca productos de calidad, y que idealmente sean únicos y personalizados para quedar bien con su pareja. Y por último nos encontramos con la tercera persona, una mujer jóven, con gusto por la moda, las joyas y los productos exclusivos, pero le hes dificil encontrarlas en el comercio tradicional, puesto que no tiene las medidas consideradas estándares, dentro del comercio tradicional, es por ésto que busca por redes sociales productos hechos a medida, para poder estar segura de que puede tener las cosas que le gustan de un negocio.
 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/User%20Persona1.png">
@@ -81,7 +81,7 @@ La primera es Carolina, diseñadora, que le encantan los productos originales y 
 </p>
 
 
-Como complemento a esto realizamos un [Customer Journey Map](https://drive.google.com/open?id=1dD2-5G4lgWlz6Rr4NyKE-upgV8zVsIyw), para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago en la joyería. Analizamos cómo podríamos mejorar sus puntos de dolor de mayor significancia, y viendo las oportunidades de mejora en cada una de ellas.
+Como complemento a esto realizamos un [Customer Journey Map](https://drive.google.com/open?id=1dD2-5G4lgWlz6Rr4NyKE-upgV8zVsIyw), para poder ver los procesos y expectativas de compra de nuestros usuarios, plasmando sus sentimientos y sensaciones por las cuales pasan al momento de realizar un pedido y pago. Analizamos cómo podríamos mejorar sus puntos de dolor y de mayor significancia, viendo las oportunidades de mejora en cada una de ellas.
 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Customer%20Journey%20Map%20Carolina.png">
@@ -98,38 +98,39 @@ Como complemento a esto realizamos un [Customer Journey Map](https://drive.googl
 
 ## Definición de la solución/producto 
 
-Luego de escuchar, analizar e investigar a los stakeholders y usuarios del proyecto, llegamos a la conclusión de que, por parte de la asociación, necesitan o buscan que Joyerias Silvestre llegue a ser un emprendimiento consolidado, con mayor alcance de usuarios y que en base a eso pueda incrementar sus ventas. A esto se llegaría por medio de la venta de productos a través de una plataforma virtual o  e-commerce, ya que al usar solo redes sociales de plataforma segrega a un grupo de personas que compra por internet solo en páginas consideradas tradicionales. Para lograr este objetivo se implementaría publicidad en su Instagram, para captar más público dentro del segmento que ocupa ésta plataforma, también se aconsejaría cambiar los escenarios y planos en las fotos, para poderle ocasionalmente variación y aire fresco a la página y quizá modelos o embajadoras que luzcan la marca. Una técnica que se utiliza en para obtener más seguidores por instagram es enviar productos a modo de regalos a personas conocida en redes sociales, con la condición de que si le agrada el diseño y lo utiliza ésta lo publicita en su Instagram personal.
+Luego de escuchar, analizar e investigar a los stakeholders y usuarios del proyecto, llegamos a la conclusión de que, por parte de la asociación, necesitan o buscan que Joyerías Silvestre llegue a ser un emprendimiento consolidado, con mayor alcance de usuarios y que en base a eso pueda incrementar sus ventas. A esto se llegaría por medio de la venta de productos a través de una plataforma virtual o e-commerce, ya que al usar solo redes sociales de plataforma segrega a un grupo de personas que compra por internet solo en páginas consideradas tradicionales. Para lograr este objetivo se implementaría publicidad en su Instagram, para captar más público dentro del segmento que ocupa ésta plataforma, también se aconsejaría cambiar los escenarios y planos en las fotos, para poder darle más variación y aire fresco a la página. También quizá implementaríamos modelos o embajadoras que luzcan la marca. 
+Una técnica que se utiliza para obtener más seguidores por Instagram es enviar productos, a modo de regalo a personas conocida en redes sociales, con la condición de que si le agrada el diseño y lo utiliza, pueda publicitarlo en su Instagram personal.
 
-Los aspectos que más se destacan del emprendimiento son su claridad de marca, visión, concepto y diseño que son armónicos y mantienen relación entre ellos. Por lo que sus oportunidades de mejoras se encuentran en tema de aumento de ventas, mejorar su sistema de pedido y, mostrar claramente sus métodos de envió y pago. Y teniendo una página web se podría unificar y mejorar:
+Los aspectos que más se destacan del emprendimiento son su claridad de marca, visión, concepto y diseño. Son armónicos y mantienen relación entre ellos. Por lo que sus oportunidades de mejoras se encuentran en el tema de aumento de ventas; mejorar su sistema de pedido y, mostrar claramente sus métodos de envió y pago. Teniendo una página web, se podría unificar y mejorar:
 * Su sistema de comunicación
 * Su sistema de pedidos
 * La información de sus métodos de envío y pago
 
-Teniendo como consecuencia a la mejora a estos temas el generar más ventas y por ende tener más dinero y así lograr dedicarse al 100% a su emprendimiento y no tener que seguir realizando trabajos secundarios de freelance.
-Uno de los puntos importantes a considerar dentro de nuestra propuesta es que al realizar joyas personalizadas, a pedido y personalizadas, en ésta página no existiría una sección o apartado de carrito de compras, que es el típico recurso para cuando las personas realizan compras por internet, ésto considerando que no lo amerita, puesto que no tiene un stock de productos como tal, además de en un principio tampoco tener el dinero para poder llegar a tener dicho stock, o incluso el tiempo para ejecutarlo, considerando que debe hacer trabajos secundarios de momento para complementar ingresos.
-Los puntos a continuación mencionados son los de mayor relevancia a mejorar de acuerdo a los problemas presentados anteriormente. Dichos puntos son en los que nos vamos a enfocar para mejorar, y así potenciar el negocio, sus productos y lograr posicionar en el mercado la marca **Joyerías Silvestre**.
+Teniendo en cuenta estos temas, el de generar más ventas y por ende generar más dinero. Jocelyn podrá lograr dedicarse al 100% a su emprendimiento, y no tener que seguir realizando trabajos secundarios de freelance.
+Uno de los puntos importantes a considerar dentro de nuestra propuesta es que al realizar joyas personalizadas, a pedido y personalizadas, en ésta página no existiría una sección o apartado de carrito de compras, que es el típico recurso para cuando las personas realizan compras por internet, ésto considerando que no lo amerita, puesto que no tiene un stock de productos como tal. Además de que en un principio tampoco ella tiene el dinero para poder llegar a tener dicho stock, o incluso el tiempo para ejecutarlo, considerando que debe hacer trabajos secundarios de momento para complementar ingresos.
+Los puntos a continuación son los de mayor relevancia, de acuerdo a los problemas presentados anteriormente. Dichos puntos son en los que nos vamos a enfocar para mejorar, y así potenciar el negocio, sus productos y lograr posicionar en el mercado la marca **Joyerías Silvestre**.
 
 |Problema|Solución|
 |:----|:---|
 |Solo se encuentra en Facebook e Instagram| Se implementaría una página web para poder llegar a mayor cantidad de público, como la que no posee esas redes sociales.
-|Necesidad de generar más ventas|Al tener una página web con hosting y dominio propio, se implementa una estrategia de marketing y SEO que la ayude con dichas ventas.
+|Necesidad de generar más ventas|Al tener una página web con hosting y dominio propio, se implementaría una estrategia de marketing y SEO que la ayude con dichas ventas.
 |Tiene muchas plataformas de comunicación|Se implementará un formulario de contacto, para resolver dudas específicas. 
-|No tiene un sistema o conducto formal de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones de una forma clara, ordenada y estandarizada.
-|No se encuentra de manera visible información o detalles de sus productos |Se realizaría un portafolio virtual con los trabajos que le han ido encargando, en donde se verían fotografías de los estilos de joyas y piedras que crea, con información relevante y de fabricación.
+|No tiene un sistema o conducto formal de pedidos|Implementar un formulario especial para poder realizar pedidos y cotizaciones, de una forma clara, ordenada y estandarizada.
+|No se encuentra de manera visible la información o detalles de sus productos |Se realizaría un portafolio virtual, con los trabajos que le han ido encargando, en donde se verían fotografías de los estilos de joyas y piedras que crea, con información relevante y de fabricación.
 ||
 
 
 **Estrategia de Marketing y posicionamiento web**
 
-Cuando pasemos a tener creada la página web final primeramente se deberán implementar estrategias de marketing y publicidad que podemos encontrar de forma gratuita. Logrando que los nuevos usuarios que quieran encontrar ésta página lo puedan realizar a través de una búsqueda orgánica en internet, a través del buscador más usado en el mundo como es Google. A su vez, al momento de que las personas puedan llegar a nuestra página y encargar sus pedidos se usaría **SEO**, el cual a través del planificador de **Keywords (palabras clave)** de Google, podamos ver cuales son las palabra claves que utilizan las personas al momento de buscar joyas, joyerías a pedido o joyas personalizadas. 
-De acuerdo a los resultados de éste estudio, se podrían implementar esas palabras o los resultados que arroje a través de toda su página web creada. Además se toma en consideración que al  tener una página web profesional se puede insertar un plug in de SEO, para así mejorar las búsquedas. Esto pasando a ser de suma importancia para rankear su web, y se realiza estableciendo links internos a través de la página, y logrando que el motor de búsqueda pueda indexar el contenido de una manera más óptima, además de servir como ayuda para la navegación de los usuarios. 
-Algo que es de suma importancia para rankear su web, es estableciendo links internos a través de su página web, esto ayuda a que el motor de búsqueda pueda indexar mejor el contenido, y sirve como ayuda para la navegación del usuario.
-Además se enlazara  la herramienta de **Google Analytics** que es gratuita. Puesto que pasa a ser una herramienta indispensable, para ayudar a ajustar y definir las estrategias a seguir, al poder ver y tener data del comportamiento de los visitantes del sitio. Pudiéndose visualizar por ejemplo, cuánto tiempo pasan las personas en la página, cuántas de ellas terminan de realizar un pedido o presupuesto,  los problemas que se presentan y el por qué de ellos.
+Cuando pasemos a tener creada la página web final, primeramente se deberán implementar estrategias de marketing y publicidad que podemos encontrar de forma gratuita. Logrando que los nuevos usuarios que quieran encontrar ésta página lo puedan realizar a través de una búsqueda orgánica en internet, a través del buscador más usado en el mundo como es Google. Para que los usuarios puedan llegar más rápido a la página web  se utilizaría **SEO**, el cual a través del planificador de **Keywords (palabras clave)** de Google, podamos ir identificando y ver cuales son las palabra que utilizan las personas al momento de buscar joyas, joyerías a pedido o joyas personalizadas. 
+De acuerdo a los resultados de éste estudio, se podrían implementar esas palabras o los resultados que arroje, a través de toda su página web creada. Además se toma en consideración que al  tener una página web profesional se puede insertar un plug in de SEO, para así mejorar las búsquedas. Esto es de suma importancia para rankear su web, y se realiza estableciendo links internos a través de la página, y logrando que el motor de búsqueda pueda indexar el contenido de una manera más óptima, además de servir como ayuda para la navegación de los usuarios. 
+
+Además se enlazará  la herramienta de **Google Analytics** que es gratuita. Puesto que pasa a ser una herramienta indispensable, para ayudar a ajustar y definir las estrategias a seguir, al poder ver y tener la data del comportamiento de los visitantes del sitio. Pudiéndose visualizar por ejemplo, cuánto tiempo pasan las personas en la página, cuántas de ellas terminan de realizar un pedido o presupuesto,  los problemas que se presentan, y el por qué de ellos.
 Al tener claro estos puntos, se deberá trabajar en una propuesta de valor, que defina el elemento diferenciador que entrega **Joyerías Silvestre**, y que por ende no tienen los otros comercios.
 
 Teniendo esto en mente realizamos dos procesos,
 
-* Un **Site Map**, para con éste poder ver las páginas principales del sitio web y que estas sean accesibles tanto para los buscadores como los usuarios.
+* Un **Site Map**, para poder ver las páginas principales del sitio web y que éstas sean accesibles, tanto para los buscadores como los usuarios.
 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Lucidchart%20Site%20Map.png">
@@ -144,7 +145,7 @@ Teniendo esto en mente realizamos dos procesos,
 
 
 
-Y teniendo en mente los procesos realizados anteriormente pasamos a la construcción del prototipo de baja fidelidad
+Teniendo en mente los procesos realizados anteriormente pasamos a la construcción del prototipo de baja fidelidad
 
 <p align="center">
   <img src="https://github.com/lyalatina/scl-2018-01-ux-marketplace/blob/master/Img/Prototipo%20baja%20fidelidad/IMG-1193.jpg">
@@ -160,10 +161,10 @@ Y teniendo en mente los procesos realizados anteriormente pasamos a la construcc
 
 Siendo éste prototipo testeado con 5 usuarios, los feedback que sacamos fueron que:
 * Las personas pensaban que era una página web convencional, con stock de joyas pre diseñadas.
-* Y por ende creían que debía haber un carrito de compras, y no entendían el porqué no lo encontraban dentro de la interfaz.
+* Y por ende creían que debía haber un carrito de compras, y no entendían el por qué no lo encontraban dentro de la interfaz.
 * La palabra portafolio no les hacía sentido, les parecía extraña.
 * Al presionar en una joya no veían el detalle de ésta como esperaban.
-* Y que al momento de realizar el pedido, no había un aviso de confirmación de pedido realizado con éxito.
+* Al momento de realizar el pedido, no había un aviso de confirmación de que el pedido se había realizado con éxito.
 
 Todos estos procesos realizados, como el flujo de usuario o sitemap fueron cambiando y mutando de acuerdo a las iteraciones realizadas por los testing a los usuarios.
 Y además con la información recopilada mejoramos el producto y pasamos a realizar una versión del prototipo en alta definición, la que a su vez también fue testeada en usuarios y logrando obtener nuevos detalles de su estructura y función, como los siguientes:
@@ -172,7 +173,7 @@ Y además con la información recopilada mejoramos el producto y pasamos a reali
 * Sigue sin estar claro el hecho de que es una plataforma de joyas a pedido y no una de compra de productos ya creados.
 
 
-Y teniendo estos puntos a considerar fue que se modificó por última vez el prototipo de alta fidelidad para plasmar los nuevos descubrimientos.
+Y teniendo estos puntos a considerar fue que se modificó por última vez el prototipo de alta fidelidad, para plasmar los nuevos descubrimientos.
 
 [Prototipo Marvel](https://marvelapp.com/74f3f36)
 
